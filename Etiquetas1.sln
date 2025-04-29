@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etiquetas1", "Etiquetas1.csproj", "{4454FD92-37AF-1AC3-6490-2C0E00E0023C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4454FD92-37AF-1AC3-6490-2C0E00E0023C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4454FD92-37AF-1AC3-6490-2C0E00E0023C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4454FD92-37AF-1AC3-6490-2C0E00E0023C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4454FD92-37AF-1AC3-6490-2C0E00E0023C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11CAC013-B92F-4E4D-8ACB-21EA71D5C0DE}
+	EndGlobalSection
+EndGlobal
